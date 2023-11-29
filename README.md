@@ -10,7 +10,7 @@ Saudações! Eu sou Ronald Pedroza 😉
 
 ## tecnologias que eu ultilizo no dia a dia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&size_weight=0&count_weight=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldd-git&layout=donut)](https://github.com/Ronaldd-git)
 
 
 <div style ="display:inline_block"><br/>
