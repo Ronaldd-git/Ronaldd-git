@@ -10,7 +10,7 @@ Saudações! Eu sou Ronald Pedroza 😉
 
 ## tecnologias que eu ultilizo no dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldd-git&layout=donut)](https://github.com/Ronaldd-git)
+![Snake animation](https://github.com/ronaldd-git/ronaldd-git/blob/output/github-contribution-grid-snake.svg)
 
 
 <div style ="display:inline_block"><br/>
