@@ -9,7 +9,7 @@
   ## tecnologias que eu ultilizo no dia a dia
   
   <div align="left">
-    <a href="https://github.com/italoknd">
+    <a href="https://github.com/ronaldd-git">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldd-git&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldd-git&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
